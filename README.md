@@ -11,7 +11,7 @@ A Spotify Clone built using HTML, CSS and JavaScript. This project gave me a han
 - **Mobile Sidebar Toggle** – Includes a hamburger menu for easy navigation on smaller screens
 
 ## Live Demo
-[Click Here](https://.vercel.app)
+[Click Here](https://spotify-clone-chi-blush-31.vercel.app/)
 
 ## License
 See the [LICENSE](./LICENSE) file for more details.
